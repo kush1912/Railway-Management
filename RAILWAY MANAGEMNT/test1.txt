@@ -1,0 +1,13 @@
+amritsar-delhi_exp		00:00		06:10
+delhi-kanpur_exp		02:00		08:10
+kanpur-kolkata_exp		05:00		15:10
+kolkata-chennai_exp		03:00		19:10
+chennai-banglore_exp		10:00		12:10
+banglore-mumbai_exp		12:00		12:10
+mumbai-ahemdabad_exp		13:30		03:40
+ahemdabad-bhopal_exp		14:00		14:10
+banglore-hyderabad_exp		15:45		10:50
+hyderabad-bhopal_exp		17:00		07:20
+mumbai-kolkata_exp		09:00		19:30
+mumbai-delhi_exp		12:15		22:20
+mumbai-hyderabad_exp            09:05           14:30

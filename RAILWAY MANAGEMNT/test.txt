@@ -1,0 +1,15 @@
+amritsar-delhi_exp		58
+delhi-kanpur_exp		60
+kanpur-kolkata_exp		60
+kolkata-chennai_exp		56
+chennai-banglore_exp		60
+banglore-mumbai_exp		56
+mumbai-ahemdabad_exp		60
+ahemdabad-bhopal_exp		60
+banglore-hyderabad_exp		60
+hyderabad-bhopal_exp		60
+mumbai-kolkata_exp		60
+mumbai-delhi_exp		60
+mumbai-hyderabad_exp		60
+mumbai-hyderabad_exp		60
+mumbai-hyderabad_exp		60
