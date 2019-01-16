@@ -1,2 +1,2 @@
 # Railway-Management
-This is totally a c++ based programs based on graphs and uses Dijkstra alogorithm to find the shortest past between the stations if there exists a path between them. It also stores the info of the passenger by making her ticket and generating a PNR no. which is a combination of the name and and numbers.
+Data structures based Project uses graphs and Dijkstra algorithm to find the shortest past between the stations if there exists a path between them. List of trains and their timings have been stored in two notepad files. The program reads the information using file handling and process it. It also stores the information of the passengers by making their ticket and generating a unique PNR.
